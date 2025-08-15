@@ -14,4 +14,4 @@ This is **not a professional application**, but it demonstrates my ability to bu
 - Tailwind CSS  
 
 ## 📸 Screenshot  
-![Preferences Form Screenshot](./screenshot.png)
+![Preferences Form Screenshot](./img/screenshot.png)
